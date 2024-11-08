@@ -2,6 +2,7 @@
 
 # Script pour la création de nouveaux utilisateurs
 # Après les problèmes rencontrés dans la version addUsers1.0.sh, mise en place d'une fonction
+# La fonction doit être initiée avant son appel
 
 user_add () {
 
