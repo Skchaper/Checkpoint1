@@ -24,7 +24,7 @@
 
 ![CREER_DATA.png](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/CREER_DATA.png)
 ![MONTAGE_SDB1.png](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/MONTAGE_SDB1.png)
-![LISTE_VOLUMES_MONTES.png]([https://github.com/Skchaper/Ch](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/LISTE_VOLUMES_MONTES.png))
+![LISTE_VOLUMES_MONTES.png](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/LISTE_VOLUMES_MONTES.png)
 ![COMMANDE_EDIT_FSTAB.png](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/COMMANDE_EDIT_FSTAB.png)
 ![FSTAB_EDIT.png](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/FSTAB_EDIT.png)
 ![ANCIEN_UUID.png](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/ANCIEN_UUID.png)
