@@ -23,12 +23,13 @@
 ## 1.2 Montage
 
 ![CREER_DATA.png](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/CREER_DATA.png)
-![MONTAGE_SDB1.png]()
-![LISTE_VOLUMES_MONTES.png]()
-![.png]()
-![.png]()
-![.png]()
-![.png]()
+![MONTAGE_SDB1.png](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/MONTAGE_SDB1.png)
+![LISTE_VOLUMES_MONTES.png](https://github.com/Skchaper/Ch)
+![COMMANDE_EDIT_FSTAB.png](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/COMMANDE_EDIT_FSTAB.png)
+![FSTAB_EDIT.png](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/FSTAB_EDIT.png)
+![VERIFIER_ETAT_FSTAB.png](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/VERIFIER_ETAT_FSTAB.png)
+![REDEMARRER.png](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/REDEMARRER.png)
+![VERIFICATION_MONTAGE](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/VERIFICATION_MONTAGE.png)
 
 
 
