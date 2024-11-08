@@ -30,6 +30,7 @@
 ![VERIFIER_ETAT_FSTAB.png](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/VERIFIER_ETAT_FSTAB.png)
 ![REDEMARRER.png](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/REDEMARRER.png)
 ![VERIFICATION_MONTAGE](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/VERIFICATION_MONTAGE.png)
+![UUID.png](https://github.com/Skchaper/Checkpoint1/blob/main/Screens/Montage/UUID.png)
 
 
 
