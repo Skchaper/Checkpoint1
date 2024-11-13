@@ -24,7 +24,7 @@ git checkout main git merge test_valide
 > - "Même des tildes ~ ?"  
 > - "Evidemment !"  
 
-echo ""
+echo ''
 
 6. **La commande jobs -l donne le résultat ci-dessous :**
 
